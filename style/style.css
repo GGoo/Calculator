@@ -3,10 +3,11 @@ body{
     background-color:darkblue;
 }
 
+
+
 .calculate{
     text-align: center;
     margin-top: 100px;
-    border: 2px dashed #E8DDCB;
     width: 350px;
     height: 250px;
     padding-top: 68px;
@@ -34,4 +35,9 @@ button{
     background-color: #036564;
     display: inline;
     color: #CDB380;
+    margin-top:5px;
+}
+
+li{
+  color: #E8DDCB;
 }
